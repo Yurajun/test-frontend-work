@@ -1,0 +1,36 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "This is demo project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devserver": "webpack-dev-server --debug --hot --devtool eval-source-map --output-pathinfo --watch --colors --inline --content-base public --port 8082 --host 0.0.0.0"
+  },
+  "author": "Yura Komarov",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "*",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-popup": "^0.6.0",
+    "react-router": "^3.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer-loader": "*",
+    "babel": "5.x",
+    "babel-loader": "5.*",
+    "css-loader": "^0.22.0",
+    "file-loader": "^0.8.5",
+    "jquery-validation": "^1.16.0",
+    "json-loader": "^0.5.4",
+    "react-hot-loader": "^1.3.0",
+    "remodal": "^1.1.1",
+    "style-loader": "^0.13.0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.12",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

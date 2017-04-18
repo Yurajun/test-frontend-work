@@ -1,0 +1,16 @@
+[
+	{
+		"id": "1243443",
+		"firstName": "ivan",
+		"lastName": "petriv",
+		"position": "director",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet fugit hic exercitationem aspernatur quia sunt cum, fuga magni nobis, nesciunt, eius laudantium sequi quidem! Quia laudantium ea velit qui harum."
+	},
+	{
+		"id": "3424323",
+		"firstName": "vasya",
+		"lastName": "petriv",
+		"position": "tokar",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident unde similique quam nobis amet, fuga officia id assumenda rem tenetur. Necessitatibus culpa vel minus aliquid ea labore, quibusdam maxime porro."
+	}
+]
